@@ -1,0 +1,1 @@
+Pilih metode <a href='index.php?mod=saw&act=index'>SAW</a> | <a href='index.php?mod=ahp&act=index'>AHP</a>
